@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Mamdouh Darwish</h1>
 
 # 💫 About Me:
-Dedicated front-end developer with strong expertise in HTML, CSS, JavaScript,Bootstrap, and Tailwind, <br>currently advancing on the MERN stack path with a focus on React.js and Node.js. Passionate <br>about building responsive, SEO-optimized, and user-friendly web applications, with a commitment <br>to clean code, performance, and modern development best practices.
+Dedicated front-end developer with strong expertise in HTML, CSS, JavaScript, Bootstrap, and Tailwind, <br>currently advancing on the MERN stack path with a focus on React.js and Node.js. Passionate <br>about building responsive, SEO-optimized, and user-friendly web applications, with a commitment <br>to clean code, performance, and modern development best practices.
 
 
 ## 🌐 Socials:
